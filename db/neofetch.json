@@ -1,5 +1,6 @@
 {
     "name": "neofetch",
+	"description": "A command-line system information tool written in bash 3.2+",
     "version": "7.1.0",
     "maintainer": "dylanaraps",
 	"path": "/usr/bin/",
