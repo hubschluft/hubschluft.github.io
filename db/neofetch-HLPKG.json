@@ -3,5 +3,5 @@
 	"description": "A command-line system information tool written in bash 3.2+",
     "version": "7.1.0",
     "maintainer": "dylanaraps",
-	"installation": "whoami"
+	"installation": "curl -L -o neofetch-7.1.0.tar.gz https://github.com/dylanaraps/neofetch/archive/refs/tags/7.1.0.tar.gz && tar -xvf neofetch-7.1.0.tar.gz"
 }
